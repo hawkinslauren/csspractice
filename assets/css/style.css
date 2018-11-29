@@ -1,0 +1,40 @@
+a {
+	color: darkmagenta;
+	font-size: 125%;
+}
+
+div {
+	width: 200px;
+	border: 15px solid lightblue;
+	padding: 20px;
+	margin: 15px;
+}
+.center {
+	margin: auto;
+	width: 50% border: 4px solid pink;
+	padding: 12px;
+}
+
+#contact {
+	text-align: center;
+	width: 70%;
+}
+.form {
+	text-align: center;
+}
+.navitem {
+	float: left;
+	list-style: none;
+	width: 33%;
+}
+nav ul {
+	content: '';
+	display: block;
+	clear: both;
+}
+#nav2 {
+	text-align: center;
+}
+#nav3 {
+	text-align: right;
+}
